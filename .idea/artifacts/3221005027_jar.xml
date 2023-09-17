@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="3221005027:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3221005027_jar</output-path>
+    <root id="archive" name="3221005027.jar">
+      <element id="module-output" name="3221005027" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/papercheck/lib/slf4j-api-1.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/papercheck/lib/pinyin4j-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/papercheck/lib/word-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/papercheck/lib/commons-pool2-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/papercheck/lib/jedis-2.5.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/papercheck/lib/commons-pool2-2.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/papercheck/lib/jedis-2.5.1.jar" />
+      <element id="library" level="module" name="JUnit4" module-name="3221005027" />
+    </root>
+  </artifact>
+</component>

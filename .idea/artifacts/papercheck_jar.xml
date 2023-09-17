@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="papercheck.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/papercheck.jar</output-path>
+    <root id="archive" name="papercheck.jar.jar">
+      <element id="module-output" name="3221005027" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/papercheck/lib/commons-pool2-2.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/papercheck/lib/jedis-2.5.1.jar" />
+      <element id="library" level="module" name="JUnit4" module-name="3221005027" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/com/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
